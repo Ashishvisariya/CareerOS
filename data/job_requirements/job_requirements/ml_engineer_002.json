@@ -1,0 +1,65 @@
+{
+    "job_id": "ml_engineer_002",
+    "title": "Machine Learning Engineer",
+    "company": "Unknown",
+    "location": "Unknown",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Machine Learning",
+        "Python",
+        "Java",
+        "R",
+        "Data Structures",
+        "Data Modeling",
+        "Software Architecture",
+        "Machine Learning Frameworks",
+        "Machine Learning Libraries",
+        "Mathematics",
+        "Statistics",
+        "Algorithms",
+        "Data Science",
+        "Problem Solving",
+        "Communication",
+        "Collaboration"
+    ],
+    "preferred_skills": [
+        "Computational Linguistics",
+        "Data Analytics",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Predictive Analytics"
+    ],
+    "experience_requirements": [
+        "At least two years of experience as a Machine Learning Engineer"
+    ],
+    "education_requirements": [
+        "Bachelor's degree in Computer Science, Data Science, Mathematics, or related field",
+        "Master's degree in Computational Linguistics, Data Analytics, or similar is advantageous"
+    ],
+    "responsibilities": [
+        "Design ML systems",
+        "Develop predictive AI software",
+        "Transform data science prototypes",
+        "Apply ML algorithms",
+        "Analyze large historical datasets",
+        "Perform statistical analysis",
+        "Optimize ML libraries and frameworks",
+        "Document ML processes"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "R",
+        "Machine Learning Frameworks",
+        "Machine Learning Libraries"
+    ],
+    "key_requirements": [
+        "Strong ML knowledge",
+        "Advanced programming proficiency",
+        "Data structures and data modeling",
+        "Software architecture",
+        "Mathematics and statistics",
+        "Algorithms",
+        "Analytical and problem-solving ability"
+    ]
+}

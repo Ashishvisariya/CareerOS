@@ -1,0 +1,58 @@
+{
+    "job_id": "nexal_iit_data_science_intern_001",
+    "title": "Data Science Intern",
+    "company": "Nexal IIT",
+    "location": "Remote",
+    "employment_type": "Internship",
+    "duration": "Up to 6 months",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Python",
+        "Data Analysis",
+        "Data Cleaning",
+        "Data Preparation",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "Problem Solving",
+        "Programming"
+    ],
+    "preferred_skills": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Scikit-learn",
+        "SQL",
+        "Jupyter Notebook",
+        "Data Visualization Tools",
+        "Predictive Modeling"
+    ],
+    "experience_requirements": [],
+    "education_requirements": [],
+    "responsibilities": [
+        "Collect and analyze datasets",
+        "Clean and prepare datasets",
+        "Build data science projects",
+        "Perform predictive modeling",
+        "Build and evaluate ML models",
+        "Create visualizations and reports",
+        "Collaborate with teams and mentors"
+    ],
+    "technologies": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Scikit-learn",
+        "SQL",
+        "Jupyter Notebook"
+    ],
+    "key_requirements": [
+        "Data analysis",
+        "Statistics",
+        "Programming",
+        "Python",
+        "Mathematics and ML basics",
+        "Analytical and problem-solving ability"
+    ]
+}

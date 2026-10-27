@@ -1,0 +1,78 @@
+{
+    "job_id": "qualcomm_ai_engineer_001",
+    "title": "AI Engineer",
+    "company": "Qualcomm India Private Limited",
+    "location": "India",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "LLMs",
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Data Structures",
+        "Algorithms",
+        "Software Engineering",
+        "Data Preprocessing",
+        "Feature Engineering",
+        "Model Evaluation",
+        "Problem Solving",
+        "Communication"
+    ],
+    "preferred_skills": [
+        "RAG",
+        "LLM Fine-tuning",
+        "AI Agents",
+        "NLP",
+        "Computer Vision",
+        "Reinforcement Learning",
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "MLOps",
+        "Cloud Platforms"
+    ],
+    "experience_requirements": [
+        "0-3 years of experience",
+        "Experience developing and deploying AI/ML models"
+    ],
+    "education_requirements": [
+        "M.Tech in AI, Machine Learning, Computer Science, Data Science, Electrical Engineering, or related discipline"
+    ],
+    "responsibilities": [
+        "Design, develop, and deploy ML and DL models",
+        "Perform data collection and preprocessing",
+        "Perform feature engineering and model evaluation",
+        "Develop AI solutions",
+        "Fine-tune and optimize models",
+        "Integrate AI solutions into production",
+        "Research emerging AI technologies",
+        "Create technical documentation"
+    ],
+    "technologies": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "Generative AI",
+        "LLMs",
+        "RAG",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "CI/CD",
+        "Cloud"
+    ],
+    "key_requirements": [
+        "Strong ML and DL understanding",
+        "Generative AI and LLM knowledge",
+        "Python and AI/ML frameworks",
+        "Data structures and algorithms",
+        "Software engineering practices",
+        "Analytical and problem-solving skills"
+    ]
+}

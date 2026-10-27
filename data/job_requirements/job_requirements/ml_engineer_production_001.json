@@ -1,0 +1,63 @@
+{
+    "job_id": "ml_engineer_production_001",
+    "title": "Machine Learning Engineer",
+    "company": "Unknown",
+    "location": "Unknown",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Machine Learning",
+        "Python",
+        "CI/CD",
+        "AWS",
+        "Kubernetes",
+        "ML Pipelines",
+        "Model Deployment",
+        "Data Preprocessing",
+        "Software Engineering",
+        "Technical Documentation",
+        "Problem Solving",
+        "Communication"
+    ],
+    "preferred_skills": [
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Open Source",
+        "Research"
+    ],
+    "experience_requirements": [
+        "Experience with machine learning model development and deployment",
+        "Experience with large-scale software engineering projects",
+        "Experience with CI/CD workflows and automation tools",
+        "Hands-on experience with AWS cloud services",
+        "Advanced knowledge of Kubernetes"
+    ],
+    "education_requirements": [
+        "Bachelor's degree in Computer Science, Electrical/Electronics Engineering, Engineering, or related field"
+    ],
+    "responsibilities": [
+        "Design and optimize production ML models",
+        "Automate end-to-end ML pipelines",
+        "Use AWS for AI infrastructure and deployment",
+        "Orchestrate containerized workloads with Kubernetes",
+        "Evaluate and preprocess real-world data",
+        "Document technical decisions"
+    ],
+    "technologies": [
+        "Python",
+        "AWS",
+        "Kubernetes",
+        "CI/CD",
+        "TensorFlow",
+        "PyTorch"
+    ],
+    "key_requirements": [
+        "Machine learning model development and deployment",
+        "Strong programming skills",
+        "CI/CD and automation",
+        "AWS cloud services",
+        "Kubernetes",
+        "End-to-end ML pipelines",
+        "Real-world data problem solving"
+    ]
+}

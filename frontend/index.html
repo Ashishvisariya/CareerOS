@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CareerOS — AI Career Operating System</title>
+  <link rel="stylesheet" href="/css/tokens.css">
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/pages.css">
+</head>
+<body>
+  <div class="app-shell">
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="brand-title">
+          <span>⚡ CareerOS</span>
+          <span class="brand-badge">PRO</span>
+        </div>
+        <p class="brand-caption">AI Career Intelligence System</p>
+      </div>
+
+      <nav class="sidebar-nav" aria-label="Main Navigation">
+        <a href="#/dashboard" class="nav-item">
+          <span>📊</span>
+          <span>Dashboard</span>
+        </a>
+        <a href="#/resume" class="nav-item">
+          <span>📄</span>
+          <span>Resume Intelligence</span>
+        </a>
+        <a href="#/jobs" class="nav-item">
+          <span>💼</span>
+          <span>Job Market Specs</span>
+        </a>
+        <a href="#/readiness" class="nav-item">
+          <span>🔍</span>
+          <span>Skill Gap & Readiness</span>
+        </a>
+        <a href="#/roadmap" class="nav-item">
+          <span>🗺️</span>
+          <span>Learning Roadmap</span>
+        </a>
+        <a href="#/interview" class="nav-item">
+          <span>🎙️</span>
+          <span>Adaptive Interview</span>
+        </a>
+        <a href="#/agent" class="nav-item">
+          <span>🤖</span>
+          <span>Career Advisor Chat</span>
+        </a>
+        <a href="#/privacy" class="nav-item">
+          <span>🔒</span>
+          <span>Data & Privacy</span>
+        </a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="system-status-indicator">
+          <div class="status-dot"></div>
+          <span>System Healthy</span>
+        </div>
+        <div>Groq + Gemini Vector Engine</div>
+      </div>
+    </aside>
+
+    <!-- Main Content Container -->
+    <div class="main-wrapper">
+      <header class="top-header">
+        <div style="display: flex; align-items: center; gap: var(--space-4);">
+          <button class="mobile-nav-toggle" id="mobile-toggle" aria-label="Toggle navigation">☰</button>
+          <span class="page-title">Career Intelligence Workspace</span>
+        </div>
+        <div style="font-size: var(--font-size-xs); color: var(--text-dim);">
+          Local Prototype Sample (13 Postings)
+        </div>
+      </header>
+
+      <main class="content-container" id="page-content" tabindex="-1">
+        <!-- Injected by router -->
+      </main>
+    </div>
+  </div>
+
+  <div id="toast-container"></div>
+
+  <script type="module">
+    import { initRouter } from "/js/router.js";
+
+    // Mobile nav toggle
+    const toggle = document.getElementById("mobile-toggle");
+    const sidebar = document.getElementById("sidebar");
+    toggle?.addEventListener("click", () => {
+      sidebar?.classList.toggle("open");
+    });
+
+    // Close mobile nav on navigation
+    window.addEventListener("hashchange", () => {
+      sidebar?.classList.remove("open");
+    });
+
+    initRouter();
+  </script>
+</body>
+</html>

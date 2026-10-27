@@ -1,0 +1,60 @@
+{
+    "job_id": "internmo_ai_program_001",
+    "title": "Artificial Intelligence Open Collaboration Program",
+    "company": "Internmo",
+    "location": "Remote",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Programming",
+        "Data Preparation",
+        "Problem Solving"
+    ],
+    "preferred_skills": [
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "OpenAI APIs",
+        "Generative AI",
+        "LLMs",
+        "Prompt Engineering",
+        "Statistics",
+        "Mathematics"
+    ],
+    "experience_requirements": [
+        "Hands-on experience with AI or machine learning projects"
+    ],
+    "education_requirements": [],
+    "responsibilities": [
+        "Build practical AI applications",
+        "Work with machine learning algorithms",
+        "Train and evaluate machine learning models",
+        "Develop AI applications using Python",
+        "Collect, clean, preprocess, and analyze datasets",
+        "Work with LLMs and generative AI",
+        "Use prompt engineering and AI APIs",
+        "Test and optimize AI models",
+        "Collaborate with mentors and team members"
+    ],
+    "technologies": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "OpenAI APIs",
+        "LLMs",
+        "Generative AI"
+    ],
+    "key_requirements": [
+        "Basic programming and problem-solving knowledge",
+        "Familiarity with Python or willingness to learn Python",
+        "Basic understanding of mathematics, statistics, or machine learning",
+        "Interest in Artificial Intelligence",
+        "Ability to work on practical AI projects"
+    ]
+}

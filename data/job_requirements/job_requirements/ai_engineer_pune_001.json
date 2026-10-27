@@ -1,0 +1,87 @@
+{
+    "job_id": "ai_engineer_pune_001",
+    "title": "AI Engineer",
+    "company": "EasyIO",
+    "location": "Pune, India",
+    "employment_type": "Full-time",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "LLMs",
+        "LangChain",
+        "RAG",
+        "Prompt Engineering",
+        "Agentic AI",
+        "Data Pipelines",
+        "REST APIs",
+        "Microservices",
+        "Docker",
+        "Cloud",
+        "Model Evaluation",
+        "Model Monitoring",
+        "Problem Solving",
+        "Communication"
+    ],
+    "preferred_skills": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "MLOps",
+        "CI/CD",
+        "Feature Stores",
+        "Computer Vision",
+        "OCR",
+        "Healthcare",
+        "MedTech",
+        "LlamaIndex",
+        "Streaming Data",
+        "Healthcare Data Standards"
+    ],
+    "experience_requirements": [
+        "2+ years professional software engineering experience",
+        "1+ years building and shipping ML/AI features in production"
+    ],
+    "education_requirements": [
+        "Bachelor's degree in Computer Science, Engineering, or related field"
+    ],
+    "responsibilities": [
+        "Build agentic LLM features",
+        "Develop AI agents",
+        "Build RAG features",
+        "Design data pipelines",
+        "Evaluate and monitor models",
+        "Build REST APIs and microservices",
+        "Deploy AI services with Docker and cloud",
+        "Monitor production AI systems"
+    ],
+    "technologies": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "LLMs",
+        "LangChain",
+        "LlamaIndex",
+        "RAG",
+        "REST APIs",
+        "Microservices",
+        "Docker",
+        "AWS",
+        "GCP",
+        "Azure",
+        "MLOps",
+        "CI/CD"
+    ],
+    "key_requirements": [
+        "Strong Python",
+        "Production AI development",
+        "LLM and agent framework experience",
+        "RAG",
+        "Prompt engineering",
+        "Data pipelines",
+        "REST APIs and microservices",
+        "Docker and cloud",
+        "Model evaluation and monitoring"
+    ]
+}

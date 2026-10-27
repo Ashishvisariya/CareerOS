@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+chroma_db/*
+data/resumes/
+data/career_state.json
+data/resume_meta.json
+data/interviews/
+data/raw_jobs/

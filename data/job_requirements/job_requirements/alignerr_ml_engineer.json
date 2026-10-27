@@ -1,0 +1,55 @@
+{
+    "job_id": "alignerr_ml_engineer_001",
+    "title": "Machine Learning Engineer",
+    "company": "Alignerr",
+    "location": "Remote",
+    "employment_type": "Hourly Contract",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Machine Learning",
+        "Computer Science",
+        "Analytical Thinking",
+        "Problem Solving",
+        "Technical Writing",
+        "Logical Reasoning",
+        "Data Quality",
+        "AI Evaluation"
+    ],
+    "preferred_skills": [
+        "Data Annotation",
+        "Data Quality Assurance",
+        "AI Evaluation Systems",
+        "LLMs",
+        "Prompt Engineering",
+        "AI Training",
+        "Software Engineering",
+        "Applied Machine Learning",
+        "Research",
+        "Technical Documentation"
+    ],
+    "experience_requirements": [],
+    "education_requirements": [
+        "Background in Machine Learning, Computer Science, or closely related technical field"
+    ],
+    "responsibilities": [
+        "Author structured reasoning traces",
+        "Document step-by-step planning",
+        "Create high-quality AI training data",
+        "Evaluate AI decision-making workflows",
+        "Refine AI workflows",
+        "Work independently"
+    ],
+    "technologies": [
+        "Large Language Models",
+        "Prompt Engineering",
+        "AI Training",
+        "AI Evaluation Systems"
+    ],
+    "key_requirements": [
+        "Clear technical reasoning",
+        "Analytical problem solving",
+        "Strong written communication",
+        "Attention to detail",
+        "Independent work"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "job_id": "aiml_engineer_fresher_hyderabad_001",
+    "title": "AI/ML Engineer - Python Intern",
+    "company": "Unknown",
+    "location": "Madhapur, Hyderabad",
+    "employment_type": "Internship",
+    "duration": "6 months",
+    "experience_level": "Fresher",
+    "work_mode": "On-site",
+    "source": "manual_job_posting",
+    "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Preprocessing",
+        "Data Cleaning",
+        "Data Transformation",
+        "EDA",
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Model Training",
+        "Model Testing",
+        "Model Evaluation",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "Statistics",
+        "Probability",
+        "Data Structures",
+        "SQL",
+        "Databases",
+        "Problem Solving",
+        "Communication"
+    ],
+    "preferred_skills": [
+        "Matplotlib",
+        "Seaborn",
+        "TensorFlow",
+        "PyTorch",
+        "Deep Learning",
+        "NLP",
+        "Computer Vision",
+        "Git",
+        "GitHub",
+        "Generative AI",
+        "LLMs",
+        "Model Validation",
+        "Model Optimization"
+    ],
+    "experience_requirements": [
+        "Freshers are eligible",
+        "Internship duration of 6 months"
+    ],
+    "education_requirements": [
+        "B.E./B.Tech/M.Tech/MCA/B.Sc./M.Sc. in Computer Science, IT, AI/ML, Data Science, or related fields"
+    ],
+    "responsibilities": [
+        "Develop AI/ML models using Python",
+        "Perform preprocessing, cleaning, transformation and EDA",
+        "Use supervised and unsupervised learning",
+        "Build, train, test and evaluate models",
+        "Use Python data libraries",
+        "Gain exposure to TensorFlow or PyTorch",
+        "Assist with real-world AI/ML solutions",
+        "Perform model validation and optimization",
+        "Work with structured and unstructured data",
+        "Document experiments and findings"
+    ],
+    "technologies": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "Matplotlib",
+        "Seaborn",
+        "TensorFlow",
+        "PyTorch",
+        "SQL",
+        "Git",
+        "GitHub"
+    ],
+    "key_requirements": [
+        "Strong Python",
+        "Basic ML concepts",
+        "Data structures",
+        "NumPy/Pandas/Scikit-learn",
+        "SQL and databases",
+        "Statistics and probability",
+        "Analytical and problem-solving skills"
+    ]
+}

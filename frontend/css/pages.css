@@ -1,0 +1,153 @@
+/* Page-Specific Layouts */
+
+/* Roadmap Mission Board */
+.missions-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.mission-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  border-left: 4px solid var(--accent-primary);
+}
+
+.mission-card.completed {
+  border-left-color: var(--status-success);
+  opacity: 0.85;
+}
+
+.mission-card.in_progress {
+  border-left-color: var(--status-warning);
+}
+
+.mission-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: var(--space-3);
+}
+
+.mission-title {
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+
+.mission-details {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+  font-size: var(--font-size-sm);
+  color: var(--text-muted);
+}
+
+/* Interview Simulation Workspace */
+.interview-workspace {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.question-box {
+  background-color: var(--bg-surface-elevated);
+  border-left: 4px solid var(--accent-primary);
+  border-radius: var(--radius-md);
+  padding: var(--space-5);
+  font-size: var(--font-size-base);
+  color: var(--text-main);
+  line-height: 1.6;
+}
+
+.turn-history {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.turn-item {
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  background-color: var(--bg-surface);
+}
+
+.answer-preview {
+  margin: var(--space-3) 0;
+  padding: var(--space-3);
+  background-color: var(--bg-surface-subtle);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-sm);
+  border-left: 3px solid var(--text-dim);
+}
+
+.rubric-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: var(--space-2);
+  margin-top: var(--space-3);
+}
+
+.rubric-item {
+  background-color: var(--bg-surface-subtle);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-xs);
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Agent Chat UI */
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  height: 620px;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.chat-messages {
+  flex-grow: 1;
+  padding: var(--space-6);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.chat-bubble {
+  max-width: 80%;
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-lg);
+  font-size: var(--font-size-sm);
+  line-height: 1.5;
+  white-space: pre-wrap;
+}
+
+.chat-bubble.user {
+  align-self: flex-end;
+  background-color: var(--accent-primary);
+  color: #ffffff;
+  border-bottom-right-radius: var(--radius-sm);
+}
+
+.chat-bubble.assistant {
+  align-self: flex-start;
+  background-color: var(--bg-surface-elevated);
+  color: var(--text-main);
+  border-bottom-left-radius: var(--radius-sm);
+  border: 1px solid var(--border-subtle);
+}
+
+.chat-input-bar {
+  padding: var(--space-4);
+  background-color: var(--bg-surface-subtle);
+  border-top: 1px solid var(--border-subtle);
+  display: flex;
+  gap: var(--space-3);
+}
